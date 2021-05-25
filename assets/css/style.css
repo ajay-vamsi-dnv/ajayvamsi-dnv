@@ -755,6 +755,11 @@ section {
         margin-left: -25px;
     }
 
+    .contact .cntctp {
+        word-break: break-all;
+        overflow-wrap: break-word;
+    }
+
     .contact .info {
         padding: 30px;
         background: #fff;
