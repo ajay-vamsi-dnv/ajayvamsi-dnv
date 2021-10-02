@@ -1,2 +1,2 @@
 # Personal Portfolio ⚡️ 
- A clean, beautiful, responsive portfolio [ajay-vamsi.github.io](https://ajay-vamsi.github.io/ajayvamsi-dnv/) 
+ A clean, beautiful, responsive portfolio [ajay-vamsi](https://ajay-vamsi.netlify.app) 
